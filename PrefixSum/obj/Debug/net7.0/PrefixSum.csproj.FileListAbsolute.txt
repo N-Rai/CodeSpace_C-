@@ -1,0 +1,15 @@
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\bin\Debug\net7.0\PrefixSum.exe
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\bin\Debug\net7.0\PrefixSum.deps.json
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\bin\Debug\net7.0\PrefixSum.runtimeconfig.json
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\bin\Debug\net7.0\PrefixSum.dll
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\bin\Debug\net7.0\PrefixSum.pdb
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.csproj.AssemblyReference.cache
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.AssemblyInfoInputs.cache
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.AssemblyInfo.cs
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.csproj.CoreCompileInputs.cache
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.dll
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\refint\PrefixSum.dll
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.pdb
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\PrefixSum.genruntimeconfig.cache
+C:\Users\Nares\Desktop\Code_Playground\PrefixSum\obj\Debug\net7.0\ref\PrefixSum.dll
